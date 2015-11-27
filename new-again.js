@@ -8,7 +8,7 @@
       sth = "global var"
 
 
-change
+var change;
 
       adsfsdf
           dsa
