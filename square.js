@@ -3,4 +3,4 @@ function square(n) {
 }
 
 square(5)
-square("5")
+square("a")
